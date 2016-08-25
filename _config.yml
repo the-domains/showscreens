@@ -1,0 +1,14 @@
+layout_spectrum: 0.9889709565322846
+typography_spectrum: 0.2601558726746589
+color:
+  brandStrength: 0.724202410550788
+  lightness: 0.3504745587706566
+  saturation: 0.06277095736004412
+  rhythmicContrast: 0.6484068483114243
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Showscreens
